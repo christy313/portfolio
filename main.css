@@ -74,7 +74,7 @@ h1 {
 
 mark {
   background: #ff0;
-  color: #000;
+  color: #091213;
 }
 
 small {
@@ -332,13 +332,13 @@ textarea {
 }
 
 a {
-  color: #5b8982;
+  color: #57b2ba;
   text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: #5b8982;
+  color: #57b2ba;
   text-decoration: none;
 }
 
@@ -430,12 +430,12 @@ h6 {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   line-height: 1.1;
-  color: #000;
+  color: #091213;
 }
 
 .technologies {
   margin-left: 12px;
-  font-weight: 400;
+  font-weight: 900;
   font-size: 14px;
   line-height: 1.4;
   color: #777;
@@ -5063,7 +5063,7 @@ a.badge:hover {
   font-size: 24px;
   font-weight: 700;
   line-height: 1;
-  color: #000;
+  color: #091213;
   text-shadow: 0 1px 0 #fff;
   opacity: 0.2;
   filter: alpha(opacity=20);
@@ -5071,7 +5071,7 @@ a.badge:hover {
 
 .close:focus,
 .close:hover {
-  color: #000;
+  color: #091213;
   text-decoration: none;
   cursor: pointer;
   opacity: 0.5;
@@ -5682,7 +5682,7 @@ button.close {
 body {
   background-image: -webkit-linear-gradient(top, #5b8982, #bac8a0);
   background-image: -o-linear-gradient(top, #5b8982 0, #bac8a0 100%);
-  background-image: linear-gradient(180deg, #5b8982 0, #bac8a0);
+  background-image: linear-gradient(180deg, #57b2ba 0, #bac8a0);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFFF0060", endColorstr="#FFFF6975", GradientType=0);
 }
@@ -5871,7 +5871,7 @@ h5.date-title {
 
 .h5 a,
 h5 a {
-  color: #000;
+  color: #091213;
 }
 
 .h5 a:hover,
@@ -5911,7 +5911,7 @@ h5 small {
 }
 
 .fa-icon {
-  color: #000;
+  color: #091213;
   width: 32px;
   height: 32px;
   display: inline-block;
@@ -5935,16 +5935,16 @@ h5 small {
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  color: #000;
+  color: #091213;
 }
 
 .social-buttons a:hover {
-  color: #5b8982;
+  color: #57b2ba;
   text-decoration: none;
 }
 
 .social-buttons a:hover .social-round-icon {
-  background-color: #5b8982;
+  background-color: #57b2ba;
   color: #fff;
   border-color: #bac8a0;
 }
@@ -5969,7 +5969,7 @@ h5 small {
 }
 
 .carousel-indicators li {
-  border-color: #000;
+  border-color: #091213;
   width: 14px;
   height: 14px;
 }
@@ -5978,7 +5978,7 @@ h5 small {
   width: 14px;
   height: 14px;
   margin: 1px;
-  background-color: #000;
+  background-color: #091213;
 }
 
 .form-control {
